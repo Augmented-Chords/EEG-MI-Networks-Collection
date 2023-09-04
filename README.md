@@ -16,5 +16,5 @@ FC5-FC6, FC3-FC4, FC1-FC2; C5-C6, C3-C4, C1-C2; CP5-CP6, CP3-CP4, CP1-CP2 were u
 ## HopefullNet
 
 - https://iopscience.iop.org/article/10.1088/1741-2552/ac4430
-- 
+
 In the original paper they used SMOTE to balance the dataset and a lower learning rate to get better accuracy.
