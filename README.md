@@ -1,5 +1,5 @@
 # EEG-MI-Networks-Collection
-This repository is for collect deep learning networks and train them on BCI Competition IV Data sets or EEG Motor Movement/Imagery Dataset.
+This repository is for collect deep learning networks and train them on BCI Competition Data sets or EEG Motor Movement/Imagery Dataset.
 
 https://www.bbci.de/competition/iv/
 
@@ -11,11 +11,11 @@ Due to differences in preprocessing methods and various parameter settings, ther
 
 ## Preprocess of BCI Competition IV Data sets 2a
 
-The sampling rate for this dataset is 250Hz, downsample to 128Hz, extracts 2 seconds (256 time points) after the cue appears for 0.5 seconds.
+The sampling rate of this dataset is 250Hz, downsample to 128Hz, extracts 2 seconds (256 time points) after the cue appears for 0.5 seconds.
 
 ## Preprocess of EEG Motor Movement/Imagery Dataset
 
-The sampling rate for this dataset is 160Hz, extracts 4 seconds (640 time points) in each event.
+The sampling rate of this dataset is 160Hz, extracts 4 seconds (640 time points) in each event.
 
 Channel selection refer to
 
