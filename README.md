@@ -11,7 +11,7 @@ Due to differences in preprocessing methods and various parameter settings, ther
 
 ## Preprocess of BCI Competition IV Data sets 2a
 
-The sampling rate for this dataset is 250Hz, downsample to 128Hz, extracts 2 seconds (512 time points) after the cue appears for 0.5 seconds.
+The sampling rate for this dataset is 250Hz, downsample to 128Hz, extracts 2 seconds (256 time points) after the cue appears for 0.5 seconds.
 
 ## Preprocess of EEG Motor Movement/Imagery Dataset
 
