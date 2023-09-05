@@ -23,7 +23,8 @@ Due to differences in the datasets selection and preprocessing methods, there ma
 
 - https://www.frontiersin.org/articles/10.3389/fnhum.2020.00338/full
 
-The original network only has four outputs, changed to five here.
+The original paper trained 9 groups of pair separetely.
+Also, The original network only has four outputs, changed to five here.
 
 ## HopefullNet
 
