@@ -35,11 +35,11 @@ Each pairs of symmetrical signal data feed to the network as a different unit.
 
 ## EEGNet
 
+- https://iopscience.iop.org/article/10.1088/1741-2552/aace8c
+
 Attempted to train on BCI Competition IV Data sets 2a (0.5-2.5s 128Hz 256 time points), reached a validation accuracy rate of 63.90%.
 
 This network does not seem to be designed for direct classification in the original paper.
-
-- https://iopscience.iop.org/article/10.1088/1741-2552/aace8c
 
 ## EEG-Inception
 
