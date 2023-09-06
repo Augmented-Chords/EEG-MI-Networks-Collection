@@ -11,7 +11,13 @@ Due to differences in preprocessing methods and various parameter settings, ther
 
 ## Preprocess of BCI Competition IV Data sets 2a
 
-The sampling rate of this dataset is 250Hz, downsample to 128Hz, extracts 2 seconds (256 time points) after the cue appears for 0.5 seconds.
+#### Data sets 2a Preprocess 0.0-4.0s 250Hz
+
+Extracts 4 seconds (1000 time points) after the cue appears.
+
+#### Data sets 2a Preprocess 0.5-2.5s 128Hz
+
+Downsample to 128Hz, extracts 2 seconds (256 time points) after the cue appears for 0.5 seconds.
 
 ## Preprocess of EEG Motor Movement/Imagery Dataset
 
@@ -27,9 +33,13 @@ Each pairs of symmetrical signal data feed to the network as a different unit.
 
 ## EEGNet
 
+BCI Competition IV Data sets 2a Preprocess 0.5-2.5s 128Hz
+
 - https://iopscience.iop.org/article/10.1088/1741-2552/aace8c
 
 ## Simplified CNN Classification Method
+
+EEG Motor Movement/Imagery Dataset
 
 - https://www.frontiersin.org/articles/10.3389/fnhum.2020.00338/full
 
@@ -37,6 +47,8 @@ The original paper trained 9 groups of pair separetely.
 Also, The original network only has four outputs, changed to five here.
 
 ## HopefullNet
+
+EEG Motor Movement/Imagery Dataset
 
 - https://iopscience.iop.org/article/10.1088/1741-2552/ac4430
 
